@@ -1,0 +1,17 @@
+{
+    "name": "main",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "console.table": "^0.10.0",
+        "inquirer": "^9.1.2",
+        "mysql2": "^2.3.3"
+    }
+}
